@@ -1,1 +1,0 @@
-# gdsc-demo-repo
